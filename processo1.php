@@ -1,7 +1,7 @@
 <?php
 //Como executar?
 //Para executar rotinas de scripts pesquisar sobre Contrab;
-function moverArquivo(){
+function copiarArquivo(){
 	//Caminho até a pasta raiz do processo
 	$dir = "C:/Users/Carminatti/Desktop/servidor_teste";
 	$repositorio = "repositorio/brd_comerc";
